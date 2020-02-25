@@ -1,6 +1,6 @@
-# My Helm Charts
+# My [Helm](https://helm.sh) Charts
 
-This repository contains Helm charts for various projects
+This repository contains [Helm](https://helm.sh) charts for various projects
 
 * [Application 1](charts/app1/)
 * [Application 2](charts/app2/)
@@ -13,8 +13,8 @@ Add the Repository to Helm:
 
 Install Application 1:
 
-    helm install my-helm-charts/app1
+    helm install test my-helm-charts/app1
 
 Install Application 2:
 
-    helm install my-helm-charts/app2
+    helm install test my-helm-charts/app2
