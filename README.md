@@ -18,4 +18,3 @@ Install Application 1:
 Install Application 2:
 
     helm install my-helm-charts/app2
-
